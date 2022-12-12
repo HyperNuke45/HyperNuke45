@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyperNuke45
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... C++ prgramming language
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Nothing yet
 - 📫 How to reach me ... Discord: HypeR#1021
 
